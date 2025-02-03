@@ -1,2 +1,1 @@
-# Architecture Template 
-"# Architecture-Template-React" 
+# Architecture Template React
